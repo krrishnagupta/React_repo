@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.appContainer{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 100vh;
+}
+
+.post-card{
+  margin: 20px 50px;
+}
+
+.btnstyle{
+  padding: 0;
+}
+
+.icon-size{
+  font-size: 1.6rem;
+}
+
+.create-post{
+  width: 60%;
+  margin: 30px 50px;
+}
